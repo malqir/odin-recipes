@@ -1,0 +1,23 @@
+img {
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    
+}
+
+h1 {
+    background-color: brown;
+    color: rgba(20, 50, 220, 0.671);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+ul {
+    color: darkviolet;
+    text-align: center;
+}
+
+ol {
+    color: navy;
+
+}
